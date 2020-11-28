@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+}
+
+button {
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
